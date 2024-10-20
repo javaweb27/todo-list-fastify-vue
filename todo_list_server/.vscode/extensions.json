@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "DEVSENSE.composer-php-vscode",
+    "shufo.vscode-blade-formatter",
+    "onecentlin.laravel-blade",
+    "codingyu.laravel-goto-view",
+    "onecentlin.laravel5-snippets",
+    "DEVSENSE.phptools-vscode",
+    "bmewburn.vscode-intelephense-client",
+    "DEVSENSE.profiler-php-vscode",
+    "lkrms.pretty-php"
+  ]
+}
